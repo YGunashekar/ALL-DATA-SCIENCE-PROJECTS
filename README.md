@@ -1,4 +1,4 @@
-# All INTERNSHALA PROJECT SUBMISSIONS
+#  INTERNSHALA PROJECT SUBMISSIONS
 
 Course 3 : Data Visualization with Power BI
 
