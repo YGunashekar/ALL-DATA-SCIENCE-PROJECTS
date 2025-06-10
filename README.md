@@ -1,4 +1,7 @@
+
 #  INTERNSHALA PROJECT SUBMISSIONS
+
+ITS HARD TO GIVE NAMING CONENTIONS EVERY FOLDER JUST DOWNLOAD THE FILES AND OPEN IT U WILL UNDERSTAND
 
 Course 1 : Introduction to Data Analytics
 100%
@@ -16,3 +19,5 @@ Course 6 : Data Driven- Machine Learning
 Course 7 : NLP Essentials: Applications to Real-World Problems
 100%
 Course 8 : Deep Learning Mastery: Data-Intensive
+
+
