@@ -1,0 +1,25 @@
+01_Data_Cleaning_PowerQuery.xlsx
+– Shows cleaned data, duplicates removed, and formatted columns.
+
+02_Data_Modeling_Relationships.pbix
+– Power BI file with relationships established between Flight, Passenger, and Ticket tables.
+
+03_Enhanced_Insights_Transformations.pbix
+– Includes conditional columns and extracted flight numbers.
+
+04_DAX_Calculations.pbix
+– Contains total passenger and ticket calculations, and "Best" flights filtering.
+
+05_Visualizations_And_Interactions.pbix
+– With visuals for:
+
+Passenger count by airline
+
+Booking status
+
+Flights by airline/destination
+– Plus interactive features like slicers and pages
+
+06_Final_Dashboard_RLS_and_Refresh.pbix
+– Includes final dashboard, Row-Level Security setup, and scheduled refresh configuration.
+
